@@ -39,7 +39,7 @@ function updateShoppingTable() {
     let productsList = JSON.parse( sessionStorage.getItem("productsList") );
         if (productsList === null) {
             sessionStorage.setItem("productsList", JSON.stringify( [] ));
-            sessionStorage.setItem("id", "0");
+            sessionStorage.setItem("id", "1");
             return;
         }
 
