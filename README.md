@@ -1,4 +1,4 @@
-# JavaScript_task_8_shoppinglist
+JavaScript_task_8_shoppinglist
 # Shopping List
 
 Shopping List App made with Java Script.
